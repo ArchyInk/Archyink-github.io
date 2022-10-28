@@ -1,0 +1,16 @@
+{
+  "scenes": [
+    {
+      "name": "加载页面",
+      "id": 1,
+      "bgImage": null,
+      "alive": false
+    },
+    {
+      "name": "主页面",
+      "id": 2,
+      "bgImage": null,
+      "alive": false
+    }
+  ]
+}
